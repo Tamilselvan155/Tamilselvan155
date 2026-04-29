@@ -1,10 +1,8 @@
-<h1 align="left">Tamilselvan C</h1>
+<h1 align="left">Hi i'm Tamilselvan</h1>
 
-## 🧑‍💻 Professional Summary
+I'm a Full Stack Developer with hands-on experience in building scalable web applications using the MERN stack and Java-based backend systems. Skilled in crafting responsive user interfaces, designing RESTful APIs, and optimizing application performance. Experienced across the full SDLC with a strong focus on clean architecture and maintainable code.
 
-Full Stack Developer with hands-on experience in building scalable web applications using the MERN stack and Java-based backend systems. Skilled in crafting responsive user interfaces, designing RESTful APIs, and optimizing application performance. Experienced across the full SDLC with a strong focus on clean architecture and maintainable code.
-
-## ⚙️ Tech Stack
+⚙️ Tech Stack
 
 <p>
   <b>Frontend:</b> HTML5, CSS3, Bootstrap, Tailwind CSS, JavaScript, React.js, Next.js<br/>
@@ -13,7 +11,7 @@ Full Stack Developer with hands-on experience in building scalable web applicati
   <b>Tools:</b> Git, GitHub, REST APIs, JWT, Electron, CI/CD Basics
 </p>
 
-## 💼 Experience
+💼 Experience
 
 **Full Stack Developer**
 
@@ -23,9 +21,9 @@ Full Stack Developer with hands-on experience in building scalable web applicati
 * Debugged, tested, and resolved issues to ensure production stability
 * Collaborated with cross-functional teams and maintained clean workflows with Git
 
-## 🚀 Projects
+🚀 Projects
 
-### 📡 Live Vehicle Tracking & Fleet Analytics (SaaS)
+📡 Live Vehicle Tracking & Fleet Analytics (SaaS)
 ---
 
 * Real-time dashboards for vehicle monitoring using React.js
@@ -46,7 +44,7 @@ Full Stack Developer with hands-on experience in building scalable web applicati
 
 **Tech:** React.js · Node.js · Express · Electron · SQLite
 
-### 🛒 E-Commerce Platform
+🛒 E-Commerce Platform
 ---
 
 * Full-stack app with user/admin dashboards
@@ -57,5 +55,5 @@ Full Stack Developer with hands-on experience in building scalable web applicati
 **Tech:** Next.js · React · Node.js · MongoDB · Tailwind
 
 <p align="left">
-  See you around!
+  See you around! 
 </p>
