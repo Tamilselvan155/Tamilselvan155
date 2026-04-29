@@ -1,7 +1,8 @@
-# Tamilselvan C
+
 
 <p align="center">
-  <b>Full Stack Developer | MERN Stack | Java Backend</b><br/>
+  <b>Tamilselvan C</b><br/>
+  <b>Full Stack Developer | MERN Stack </b><br/>
   📍 Chennai, India &nbsp; | &nbsp; 📱 +91 9940659356 &nbsp; | &nbsp; 📧 <a href="mailto:tamilselvan.c155@gmail.com">Email</a>
   <br/>
   🌐 <a href="https://ts-profile.netlify.app/">Portfolio</a> &nbsp; | &nbsp; 💻 <a href="https://github.com/Tamilselvan155">GitHub</a> &nbsp; | &nbsp; 💼 <a href="https://www.linkedin.com/in/tamil-selvan-237237305">LinkedIn</a>
@@ -84,5 +85,5 @@ Git, GitHub, REST APIs, JWT Authentication, Electron, CI/CD Basics
 ---
 
 <p align="center">
-  ⭐ Thanks for visiting my profile! Let's build something amazing together.
+  See you around !, Let's build something amazing together ⭐.
 </p>
