@@ -63,6 +63,16 @@ Tools      : Git, GitHub, REST APIs, JWT, Electron, CI/CD Basics
 
 ---
 
+## 📫 Contact
+
+<p align="left">
+  📱 +91 9940659356 <br/>
+  📧 <a href="mailto:tamilselvan.c155@gmail.com">tamilselvan.c155@gmail.com</a> <br/>
+  🌐 <a href="https://ts-profile.netlify.app/">Portfolio</a> <br/>
+  💻 <a href="https://github.com/Tamilselvan155">GitHub</a> <br/>
+  💼 <a href="https://www.linkedin.com/in/tamil-selvan-237237305">LinkedIn</a>
+</p>
+
 <p align="left">
   See you around! Connect or follow for any updates 
 </p>
