@@ -1,7 +1,6 @@
 
-
+<b>Tamilselvan C</b><br/>
 <p align="center">
-  <b>Tamilselvan C</b><br/>
   <b>Full Stack Developer | MERN Stack </b><br/>
   📍 Chennai, India &nbsp; | &nbsp; 📱 +91 9940659356 &nbsp; | &nbsp; 📧 <a href="mailto:tamilselvan.c155@gmail.com">Email</a>
   <br/>
