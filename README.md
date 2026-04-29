@@ -1,4 +1,4 @@
-< align="left">Tamilselvan C</>
+<h1 align="left">Tamilselvan C</h1>
 
 ## 🧑‍💻 Professional Summary
 
@@ -26,6 +26,7 @@ Full Stack Developer with hands-on experience in building scalable web applicati
 ## 🚀 Projects
 
 ### 📡 Live Vehicle Tracking & Fleet Analytics (SaaS)
+---
 
 * Real-time dashboards for vehicle monitoring using React.js
 * Backend services with Java (Spring Boot) for tracking & reporting
@@ -36,6 +37,7 @@ Full Stack Developer with hands-on experience in building scalable web applicati
 **Tech:** React.js · Spring Boot · PostgreSQL · REST · JWT
 
 ### 💻 Offline Gold Billing & Inventory System
+---
 
 * Cross-platform desktop app using Electron + MERN
 * Modules: Billing, Inventory, Invoice, Gold Exchange, Admin
@@ -45,6 +47,7 @@ Full Stack Developer with hands-on experience in building scalable web applicati
 **Tech:** React.js · Node.js · Express · Electron · SQLite
 
 ### 🛒 E-Commerce Platform
+---
 
 * Full-stack app with user/admin dashboards
 * REST APIs with MongoDB for products, users, orders
