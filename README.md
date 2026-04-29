@@ -6,7 +6,7 @@ Full Stack Developer with hands-on experience in building scalable web applicati
 
 ---
 
-## ⚙️ Tech Stack
+⚙️ Tech Stack
 
 ```
 Frontend   : HTML5, CSS3, Bootstrap, Tailwind CSS, JavaScript, React.js, Next.js
@@ -31,7 +31,7 @@ Tools      : Git, GitHub, REST APIs, JWT, Electron, CI/CD Basics
 
 ## 🚀 Projects
 
-### 📡 Live Vehicle Tracking & Fleet Analytics (SaaS)
+ 📡 Live Vehicle Tracking & Fleet Analytics (SaaS)
 
 * Real-time dashboards for vehicle monitoring using React.js
 * Backend services with Java (Spring Boot) for tracking & reporting
@@ -42,7 +42,7 @@ Tools      : Git, GitHub, REST APIs, JWT, Electron, CI/CD Basics
 **Tech Stack:** `React.js` · `Spring Boot` · `PostgreSQL` · `REST APIs` · `JWT`
 
 
-### 💻 Offline Gold Billing & Inventory System
+ 💻 Offline Gold Billing & Inventory System
 
 * Cross-platform desktop application using Electron + MERN stack
 * Modules: Billing, Inventory, Invoice, Gold Exchange, Admin
@@ -52,7 +52,7 @@ Tools      : Git, GitHub, REST APIs, JWT, Electron, CI/CD Basics
 **Tech Stack:** `React.js` · `Node.js` · `Express.js` · `Electron` · `SQLite`
 
 
-### 🛒 E-Commerce Platform
+ 🛒 E-Commerce Platform
 
 * Full-stack application with user and admin dashboards
 * REST APIs with MongoDB for products, users, and orders
