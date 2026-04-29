@@ -1,10 +1,8 @@
-<h1 align="center">Tamilselvan C</h1>
+< align="left">Tamilselvan C</>
 
 ## 🧑‍💻 Professional Summary
 
 Full Stack Developer with hands-on experience in building scalable web applications using the MERN stack and Java-based backend systems. Skilled in crafting responsive user interfaces, designing RESTful APIs, and optimizing application performance. Experienced across the full SDLC with a strong focus on clean architecture and maintainable code.
-
----
 
 ## ⚙️ Tech Stack
 
@@ -15,8 +13,6 @@ Full Stack Developer with hands-on experience in building scalable web applicati
   <b>Tools:</b> Git, GitHub, REST APIs, JWT, Electron, CI/CD Basics
 </p>
 
----
-
 ## 💼 Experience
 
 **Full Stack Developer**
@@ -26,8 +22,6 @@ Full Stack Developer with hands-on experience in building scalable web applicati
 * Modeled databases and optimized queries for performance and reliability
 * Debugged, tested, and resolved issues to ensure production stability
 * Collaborated with cross-functional teams and maintained clean workflows with Git
-
----
 
 ## 🚀 Projects
 
@@ -59,8 +53,6 @@ Full Stack Developer with hands-on experience in building scalable web applicati
 
 **Tech:** Next.js · React · Node.js · MongoDB · Tailwind
 
----
-
-<p align="center">
+<p align="left">
   See you around!
 </p>
