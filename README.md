@@ -12,7 +12,7 @@ Full Stack Developer with hands-on experience in building scalable web applicati
 Frontend   : HTML5, CSS3, Bootstrap, Tailwind CSS, JavaScript, React.js, Next.js
 Backend    : Java (Spring Boot), Node.js, Express.js
 Databases  : MongoDB, MySQL, PostgreSQL, SQLite
-Tools      : Git, GitHub, REST APIs, JWT, Electron, CI/CD Basics
+Tools      : Git, GitHub, Electron, CI/CD Basics
 ```
 
 ---
