@@ -29,45 +29,10 @@ Tools      : Git, GitHub, REST APIs, JWT, Electron, CI/CD Basics
 
 ---
 
-## 🚀 Projects
-
- 📡 Live Vehicle Tracking & Fleet Analytics (SaaS)
-
-* Real-time dashboards for vehicle monitoring using React.js
-* Backend services with Java (Spring Boot) for tracking & reporting
-* SaaS licensing and subscription-based access control
-* GPS data processing for live tracking and analytics
-* Robust REST APIs for frontend-backend communication
-
-**Tech Stack:** `React.js` · `Spring Boot` · `PostgreSQL` · `REST APIs` · `JWT`
-
-
- 💻 Offline Gold Billing & Inventory System
-
-* Cross-platform desktop application using Electron + MERN stack
-* Modules: Billing, Inventory, Invoice, Gold Exchange, Admin
-* Role-based access control and secure authentication
-* Offline data storage with SQLite and Excel backups
-
-**Tech Stack:** `React.js` · `Node.js` · `Express.js` · `Electron` · `SQLite`
-
-
- 🛒 E-Commerce Platform
-
-* Full-stack application with user and admin dashboards
-* REST APIs with MongoDB for products, users, and orders
-* JWT authentication and role management
-* Responsive UI using React.js and Next.js
-
-**Tech Stack:** `Next.js` · `React.js` · `Node.js` · `MongoDB` · `Tailwind CSS`
-
----
-
 ## 📫 Contact
 
-📱 +91 9940659356 | 📧 [tamilselvan.c155@gmail.com](mailto:tamilselvan.c155@gmail.com) | 🌐 [Portfolio](https://ts-profile.netlify.app/) | 💻 [GitHub](https://github.com/Tamilselvan155) | 💼 [LinkedIn](https://www.linkedin.com/in/tamil-selvan-237237305)
+📧 [tamilselvan.c155@gmail.com](mailto:tamilselvan.c155@gmail.com) | 🌐 [Portfolio](https://ts-profile.netlify.app/) | 💻 [GitHub](https://github.com/Tamilselvan155) | 💼 [LinkedIn](https://www.linkedin.com/in/tamil-selvan-237237305)
 
 <p align="left">
   See you around! 
 </p>
-
